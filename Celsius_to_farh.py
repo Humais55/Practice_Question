@@ -15,3 +15,4 @@ elif choice == 2:
     print(f"{tempe} degrees Celsius is equal to {F:.2f} degrees Fahrenheit.")
 else:
     print("Please select a valid option!")
+    
