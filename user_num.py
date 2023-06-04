@@ -1,7 +1,7 @@
 #Write a program to enter the numbers till the user wants and at the end
 # it should display the maximum and minimum number entered.
 
-numbers = []  # List to store the entered numbers
+numbers = []
 
 while True:
     num = input("\nEnter a number (or 'q' to quit): ")
